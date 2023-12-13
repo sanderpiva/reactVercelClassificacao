@@ -60,7 +60,7 @@ function Form() {
 
     return (
         <div className="container mt-5">
-            <h1 className="mb-4">Sistema de Predição Extinção de Incendio</h1>
+            <h1 className="mb-4">Sistema de Predição Extinção de Incêndio</h1>
 
             <form onSubmit={handleSubmit} className="p-4">
                 <div className="mb-3">
